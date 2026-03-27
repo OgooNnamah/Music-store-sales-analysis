@@ -64,7 +64,7 @@ Dashboard Page:
 # Features of the report
 The Home page shows the title of the report, KPI cards, slicer for  the financial period (Jan 2021 - Dec 2025) and navigation buttons to direct you to other pages and my GITHUB profile page.
 
-The Revenue and Sales dashboard page shows comparison of revenue prior year (PR) and current year revenue, total revenue by country, employees and Artist. The music catalogue performance dashboard shows total  revenue by tracks, album, playlist and genre. The customer analytics dashboard shows the top 10 customers by revenue, average invoice per customer, yearly revenue per customer and their country. The sales agents dashboard shows total revenue for the yaer and monthly revenue genrated by each sales agent, revenue by total tracks sold and mediatype.
+The Revenue and Sales dashboard page shows comparison of revenue prior year (PR) and current year revenue, total revenue by country, employees and Artist, and a navigation button to direct you to the home page. The music catalogue performance dashboard shows total  revenue by tracks, album, playlist and genre, and a navigation button to direct you to the home page. The customer analytics dashboard shows the top 10 customers by revenue, average invoice per customer, yearly revenue per customer and their country, and a navigation button to direct you to the home page. The sales agents dashboard shows total revenue for the yaer and monthly revenue genrated by each sales agent, revenue by total tracks sold and mediatype, and a navigation button to direct you to the home page.
 
 Home Page
 <img width="1379" height="778" alt="image" src="https://github.com/user-attachments/assets/a6e01834-116e-4609-b071-ea44424cf86e" />
