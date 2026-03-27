@@ -70,10 +70,10 @@ Home Page
 <img width="1379" height="778" alt="image" src="https://github.com/user-attachments/assets/a6e01834-116e-4609-b071-ea44424cf86e" />
 
 Revenue & Sales Dashboard
-<img width="1379" height="781" alt="image" src="https://github.com/user-attachments/assets/88a845cd-639b-4314-ac12-af4c9260b230" />
+<img width="1381" height="781" alt="image" src="https://github.com/user-attachments/assets/ceb0e261-0e15-4481-857f-ac392b0c722c" />
 
 Music Catalogue Performance Dashboard
-<img width="1384" height="780" alt="image" src="https://github.com/user-attachments/assets/e941c7bc-ed3d-42dd-9177-1a841eeee404" />
+<img width="1377" height="776" alt="image" src="https://github.com/user-attachments/assets/970f4def-9164-401b-8904-9954facecd8e" />
 
 Customer Analytics Dashboard
 <img width="1375" height="780" alt="image" src="https://github.com/user-attachments/assets/207073c1-94e5-492f-b215-b1b601be35db" />
