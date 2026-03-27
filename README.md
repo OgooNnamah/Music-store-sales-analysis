@@ -2,7 +2,7 @@
 I built an end-to-end analytics project using SQL and Power BI, where I analyzed sales performance, customer behavior, and employee effectiveness. I translated the findings into a dashboard and provided actionable recommendations to improve revenue and customer retention.
 
 # Project Overview
-This project analyzes a global music store database to understand sales performance, customer behavior, and employee effectiveness.
+This project analyzed a global music store database to understand sales performance, customer behavior, and employee effectiveness.
 
 The analysis was completed using SQL and focuses on transforming raw transactional data into actionable business insights.
 
@@ -52,10 +52,10 @@ I incorporated form controls for interactivity to help user select a specific qu
 
 Used hyperlinks and created navigation buttons to allow users to move seamlessly between different sheets within workbook.
 
-Finally, I arrived at a report with three (5) pages named:
+Finally, I arrived at a report with five (5) pages named:
 
 Home Page
-Dashboard Page:
+Dashboard Pages (4):
   - Revenue & Sales Executive Overview
   - Music Catalogue Performance
   - Customer Analytics
@@ -64,7 +64,7 @@ Dashboard Page:
 # Features of the report
 The Home page shows the title of the report, KPI cards, slicer for  the financial period (Jan 2021 - Dec 2025) and navigation buttons to direct you to other pages and my GITHUB profile page.
 
-The Revenue and Sales dashboard page shows comparison of revenue prior year (PR) and current year revenue, total revenue by country, employees and Artist, and a navigation button to direct you to the home page. The music catalogue performance dashboard shows total  revenue by tracks, album, playlist and genre, and a navigation button to direct you to the home page. The customer analytics dashboard shows the top 10 customers by revenue, average invoice per customer, yearly revenue per customer and their country, and a navigation button to direct you to the home page. The sales agents dashboard shows total revenue for the yaer and monthly revenue genrated by each sales agent, revenue by total tracks sold and mediatype, and a navigation button to direct you to the home page.
+The Revenue and Sales dashboard page shows comparison of revenue prior year (PY) and current year revenue, total revenue by country, employees and Artists, and a navigation button to direct you to the home page. The music catalogue performance dashboard shows total revenue by tracks, album, playlist and genre, and a navigation button to direct you to the home page. The customer analytics dashboard shows the top 10 customers by revenue, average invoice per customer, yearly revenue per customer and their country, and a navigation button to direct you to the home page. The sales agents dashboard shows total revenue for the yaer and monthly revenue genrated by each sales agent, revenue by total tracks sold and mediatype, and a navigation button to direct you to the home page.
 
 Home Page
 <img width="1379" height="778" alt="image" src="https://github.com/user-attachments/assets/a6e01834-116e-4609-b071-ea44424cf86e" />
@@ -93,5 +93,5 @@ Sales Agents & Operational Performance Dashboard
 - Prioritize high-revenue countries for growth.
 - Improve sales team performance through benchmarking.
 
-# Final Note
-Thank you for reading.
+# Thank you for reading.
+I am open to data analyst role.
