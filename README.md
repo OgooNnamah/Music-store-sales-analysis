@@ -1,4 +1,5 @@
 # Music Store Sales & Customer Analytics  
+I built an end-to-end analytics project using SQL and Power BI, where I analyzed sales performance, customer behavior, and employee effectiveness. I translated the findings into a dashboard and provided actionable recommendations to improve revenue and customer retention.
 
 # Project Overview
 This project analyzes a global music store database to understand sales performance, customer behavior, and employee effectiveness.
@@ -15,7 +16,7 @@ The main goal of this project is to help a music store improve revenue and custo
 - What trends can be identified in customer purchasing behavior?
 
 # Data Source
-  The data used for this work is gotten from DahelTechies Internship Program.
+The data used for this work is gotten from DahelTechies Internship Program.
 
 # Skills and Concept Demonstrated
 SQL concepts such as;
@@ -36,15 +37,14 @@ Imported the files into MYSQL through the Table Import wizard and ran the querie
 - Data Visualization (Power BI)
 
 # Data Analysis
-I created a total of 50 queries to analyze genre counts, album analysis, artist rankings, Unsold tracks, top artists, customer purchase patterns, favourite genre per customer, 
-Track popularity index, artist cross-genre analysis, running totals, playlist reports, Annual reports, customer LTV, genre trend flags, and  CEO 8-KPI summary.
+I created a total of 50 queries to analyze genre counts, album analysis, artist rankings, Unsold tracks, top artists, customer purchase patterns, favourite genre per customer, Track popularity index, artist cross-genre analysis, running totals, playlist reports, Annual reports, customer LTV, genre trend flags, and  CEO 8-KPI summary.
 
 Here, I used a combination of many SQL functions to achieve these results.
 
 I generated various types of charts to visually represent financial trends and comparisons.
 
 # Data Visualizations
-Here, I moved my analysis to my dashboard page.
+Here, I moved my analysis from SQL to power BI.
 
 Created charts and graphs that respond dynamically to selections, enhancing visual representation and analysis.
 
@@ -69,13 +69,13 @@ Revenue & Sales Dashboard
 <img width="1373" height="778" alt="image" src="https://github.com/user-attachments/assets/221fd9d8-c01c-430e-9d5e-90416d488969" />
 
 Music Catalogue Performance Dashboard
-<img width="1383" height="784" alt="image" src="https://github.com/user-attachments/assets/4c7206e0-4d26-4f75-9c19-81784ac82a93" />
+<img width="1379" height="777" alt="image" src="https://github.com/user-attachments/assets/b59959b0-e12f-4218-a33b-aaf0e0b632f7" />
 
 Customer Analytics Dashboard
-<img width="1384" height="776" alt="image" src="https://github.com/user-attachments/assets/f06249cb-01a5-4cbd-8ff8-d9851e9c121e" />
+<img width="1363" height="777" alt="image" src="https://github.com/user-attachments/assets/b9f1effa-94fa-4c06-a9c7-d3537ad94aa0" />
 
 Sales Agents & Operational Performance Dashboard
-<img width="1375" height="788" alt="image" src="https://github.com/user-attachments/assets/5c9d0e14-013c-4922-a7da-883f871e8826" />
+<img width="1381" height="785" alt="image" src="https://github.com/user-attachments/assets/3444f895-ab54-42ee-83fb-980fa98d6949" />
 
 # Key Insights
 - A small number of top artists generate a large portion of total revenue.
