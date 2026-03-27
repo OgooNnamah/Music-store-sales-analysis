@@ -62,11 +62,15 @@ Dashboard Page:
   - Sales Agents & Operational Performance
 
 # Features of the report
+The Home page shows the title of the report, KPI cards, slicer for  the financial period (Jan 2021 - Dec 2025) and navigation buttons to direct you to other pages and my GITHUB profile page.
+
+The Revenue and Sales dashboard page shows comparison of revenue prior year (PR) and current year revenue, total revenue by country, employees and Artist. The music catalogue performance dashboard shows total  revenue by tracks, album, playlist and genre. The customer analytics dashboard shows the top 10 customers by revenue, average invoice per customer, yearly revenue per customer and their country. The sales agents dashboard shows total revenue for the yaer and monthly revenue genrated by each sales agent, revenue by total tracks sold and mediatype.
+
 Home Page
 <img width="1371" height="774" alt="image" src="https://github.com/user-attachments/assets/fca84031-1402-4a5c-b7d7-ab1260f61aa8" />
 
 Revenue & Sales Dashboard
-<img width="1373" height="778" alt="image" src="https://github.com/user-attachments/assets/221fd9d8-c01c-430e-9d5e-90416d488969" />
+<img width="1175" height="664" alt="image" src="https://github.com/user-attachments/assets/96a35be7-b8f5-4abd-b7d0-bcf1c044ee8c" />
 
 Music Catalogue Performance Dashboard
 <img width="1379" height="777" alt="image" src="https://github.com/user-attachments/assets/b59959b0-e12f-4218-a33b-aaf0e0b632f7" />
@@ -77,11 +81,11 @@ Customer Analytics Dashboard
 Sales Agents & Operational Performance Dashboard
 <img width="1381" height="785" alt="image" src="https://github.com/user-attachments/assets/3444f895-ab54-42ee-83fb-980fa98d6949" />
 
-# Key Insights
+# Key Insights and Summary
 - A small number of top artists generate a large portion of total revenue.
 - High-value customers contribute significantly more to sales.
-- Certain countries produce higher revenue per customer.
-- Sales agent performance varies when measured by efficiency, not just total sales.
+- While USA and Canada generate highest revenue, countries like Chile, Hungary and Austria produce higher revenue per customer.
+- Sales agent performance varies significantly when measured by efficiency, not just total sales.
 
 # Business Recommendations
 - Focus marketing campaigns on top-performing artists.
@@ -89,5 +93,5 @@ Sales Agents & Operational Performance Dashboard
 - Prioritize high-revenue countries for growth.
 - Improve sales team performance through benchmarking.
 
-Final Note
+# Final Note
 Thank you for reading.
