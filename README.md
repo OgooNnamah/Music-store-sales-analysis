@@ -67,19 +67,19 @@ The Home page shows the title of the report, KPI cards, slicer for  the financia
 The Revenue and Sales dashboard page shows comparison of revenue prior year (PR) and current year revenue, total revenue by country, employees and Artist. The music catalogue performance dashboard shows total  revenue by tracks, album, playlist and genre. The customer analytics dashboard shows the top 10 customers by revenue, average invoice per customer, yearly revenue per customer and their country. The sales agents dashboard shows total revenue for the yaer and monthly revenue genrated by each sales agent, revenue by total tracks sold and mediatype.
 
 Home Page
-<img width="1371" height="774" alt="image" src="https://github.com/user-attachments/assets/fca84031-1402-4a5c-b7d7-ab1260f61aa8" />
+<img width="1379" height="778" alt="image" src="https://github.com/user-attachments/assets/a6e01834-116e-4609-b071-ea44424cf86e" />
 
 Revenue & Sales Dashboard
-<img width="1175" height="664" alt="image" src="https://github.com/user-attachments/assets/96a35be7-b8f5-4abd-b7d0-bcf1c044ee8c" />
+<img width="1379" height="781" alt="image" src="https://github.com/user-attachments/assets/88a845cd-639b-4314-ac12-af4c9260b230" />
 
 Music Catalogue Performance Dashboard
-<img width="1379" height="777" alt="image" src="https://github.com/user-attachments/assets/b59959b0-e12f-4218-a33b-aaf0e0b632f7" />
+<img width="1384" height="780" alt="image" src="https://github.com/user-attachments/assets/e941c7bc-ed3d-42dd-9177-1a841eeee404" />
 
 Customer Analytics Dashboard
-<img width="1363" height="777" alt="image" src="https://github.com/user-attachments/assets/b9f1effa-94fa-4c06-a9c7-d3537ad94aa0" />
+<img width="1375" height="780" alt="image" src="https://github.com/user-attachments/assets/207073c1-94e5-492f-b215-b1b601be35db" />
 
 Sales Agents & Operational Performance Dashboard
-<img width="1381" height="785" alt="image" src="https://github.com/user-attachments/assets/3444f895-ab54-42ee-83fb-980fa98d6949" />
+<img width="1375" height="783" alt="image" src="https://github.com/user-attachments/assets/f48f8d23-dd0c-41ac-87a8-16396a3cb060" />
 
 # Key Insights and Summary
 - A small number of top artists generate a large portion of total revenue.
