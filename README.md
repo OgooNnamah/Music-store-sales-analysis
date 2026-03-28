@@ -54,8 +54,8 @@ Used hyperlinks and created navigation buttons to allow users to move seamlessly
 
 Finally, I arrived at a report with five (5) pages named:
 
-Home Page
-Dashboard Pages (4):
+- Home Page
+- Dashboard Pages (4):
   - Revenue & Sales Executive Overview
   - Music Catalogue Performance
   - Customer Analytics
