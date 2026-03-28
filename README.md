@@ -21,13 +21,13 @@ The data used for this work is gotten from DahelTechies Internship Program.
 # Skills and Concept Demonstrated
 SQL concepts such as;
 
-Aggregate functions- Count, Sum, Avg etc
-Common table expressions
-Window functions
-Joins
-Subquery
-Sorting & Grouping- Group By, Order By, Having
-Retrieval and Filtering- Select, From, Where, Limit, Case, And etc
+- Aggregate functions- Count, Sum, Avg etc
+- Common table expressions
+- Window functions
+- Joins
+- Subquery
+- Sorting & Grouping- Group By, Order By, Having
+- Retrieval and Filtering- Select, From, Where, Limit, Case, And etc
 
 # Data transformation
 Imported the files into MYSQL through the Table Import wizard and ran the queries in the imported file to create 11 tables.
