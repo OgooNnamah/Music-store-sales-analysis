@@ -1,5 +1,5 @@
 # Music Store Sales & Customer Analytics  
-I built an end-to-end analytics project using SQL and Power BI, where I analyzed sales performance, customer behavior, and employee effectiveness. I translated the findings into a dashboard and provided actionable recommendations to improve revenue and customer retention.
+I built an end-to-end analytics project using SQL and Power BI, where I analyzed sales performance, customer behavior, and employee effectiveness. I translated the findings into a dashboard and provided actionable recommendations to improve revenue and customer retention. 
 
 # Project Overview
 This project analyzed a global music store database to understand sales performance, customer behavior, and employee effectiveness.
