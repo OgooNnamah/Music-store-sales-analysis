@@ -67,7 +67,7 @@ The Home page shows the title of the report, KPI cards, slicer for  the financia
 The Revenue and Sales dashboard page shows comparison of revenue prior year (PY) and current year revenue, total revenue by country, employees and Artists, and a navigation button to direct you to the home page. The music catalogue performance dashboard shows total revenue by tracks, album, playlist and genre, and a navigation button to direct you to the home page. The customer analytics dashboard shows the top 10 customers by revenue, average invoice per customer, yearly revenue per customer and their country, and a navigation button to direct you to the home page. The sales agents dashboard shows total revenue for the yaer and monthly revenue genrated by each sales agent, revenue by total tracks sold and mediatype, and a navigation button to direct you to the home page.
 
 Home Page
-<img width="1379" height="778" alt="image" src="https://github.com/user-attachments/assets/a6e01834-116e-4609-b071-ea44424cf86e" />
+<img width="1433" height="808" alt="image" src="https://github.com/user-attachments/assets/c2ec2b21-ba45-4d4a-bc06-d7c382a38882" />
 
 Revenue & Sales Dashboard
 <img width="1381" height="781" alt="image" src="https://github.com/user-attachments/assets/ceb0e261-0e15-4481-857f-ac392b0c722c" />
