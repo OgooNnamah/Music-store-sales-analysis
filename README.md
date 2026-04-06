@@ -88,10 +88,13 @@ Sales Agents & Operational Performance Dashboard
 - Sales agent performance varies significantly when measured by efficiency, not just total sales.
 
 # Business Recommendations
-- Focus marketing campaigns on top-performing artists.
-- Implement loyalty strategies for high-value customers.
-- Prioritize high-revenue countries for growth.
-- Improve sales team performance through benchmarking.
+- Marketing campaigns should be focused on top-performing artists
+- High-value customers should be recognized through implementing loyalty strategies.
+- High-revenue countries should be prioritized for growth.
+- Sales team performance should be improved through benchmarking against prevailing market rates.
+- Less popular tracks should be promoted to increase coverage.
+
+
 
 # Thank you for reading.
 I am open to data analyst role.
