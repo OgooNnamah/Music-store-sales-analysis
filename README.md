@@ -89,8 +89,8 @@ Sales Agents & Operational Performance Dashboard
 
 # Business Recommendations
 - Marketing campaigns should be focused on top-performing artists
-- High-value customers should be recognized through implementing loyalty strategies.
-- High-revenue countries should be prioritized for growth.
+- High-value customers Rojas, Koviac, Gruber etc should be recognized through implementing loyalty strategies.
+- High-revenue countries such as USA and Canada should be prioritized for growth.
 - Sales team performance should be improved through benchmarking against prevailing market rates.
 - Less popular tracks should be promoted to increase coverage.
 
