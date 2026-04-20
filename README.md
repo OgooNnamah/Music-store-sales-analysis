@@ -86,7 +86,7 @@ Sales Agents & Operational Performance Dashboard
 - A small number of top artists ( 5) generate a large portion (about 40%) of total revenue.
 - High-value customers contribute significantly more to sales.
 - While USA and Canada generate highest revenue, countries like Chile, Hungary and Austria produce higher revenue per customer.
-- Sales agent performance varies when measured by efficiency, not just total sales.
+- Sales agent performance varies when measured by efficiency, not just total sales.
 
 # Business Recommendations
 - Marketing campaigns should be focused on top-performing artists like Iron Madden, UZ, Metalica, Led Zeppeln, Deep Purple.
