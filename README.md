@@ -82,19 +82,18 @@ Sales Agents & Operational Performance Dashboard
 <img width="1375" height="783" alt="image" src="https://github.com/user-attachments/assets/f48f8d23-dd0c-41ac-87a8-16396a3cb060" />
 
 # Key Insights and Summary
-- A small number of top artists generate a large portion of total revenue.
+- 100% of customers have made purchases (no inactive users) 
+- A small number of top artists ( 5) generate a large portion (about 40%) of total revenue.
 - High-value customers contribute significantly more to sales.
 - While USA and Canada generate highest revenue, countries like Chile, Hungary and Austria produce higher revenue per customer.
-- Sales agent performance varies significantly when measured by efficiency, not just total sales.
+- Sales agent performance varies when measured by efficiency, not just total sales.
 
 # Business Recommendations
-- Marketing campaigns should be focused on top-performing artists
+- Marketing campaigns should be focused on top-performing artists like Iron Madden, UZ, Metalica, Led Zeppeln, Deep Purple.
 - High-value customers Rojas, Koviac, Gruber etc should be recognized through implementing loyalty strategies.
 - High-revenue countries such as USA and Canada should be prioritized for growth.
 - Sales team performance should be improved through benchmarking against prevailing market rates.
-- Less popular tracks should be promoted to increase coverage.
-
-
+- Less popular tracks such as Scratch-N-Sniff, Crossfire, My Mistake, It Doesn’t Matter etc, should be promoted to increase coverage.
 
 # Thank you for reading.
 I am open to data analyst role.
